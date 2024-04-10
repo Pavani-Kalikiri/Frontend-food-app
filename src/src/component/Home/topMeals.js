@@ -1,0 +1,43 @@
+export const topMeals=[
+    {
+        image:"https://cdn.pixabay.com/photo/2017/12/09/08/18/pizza-3007395_1280.jpg",
+        title:"Pizza"
+    },
+    {
+        image:"https://media.istockphoto.com/id/1473452859/photo/tasty-cheeseburger-glass-of-cola-and-french-fries-on-wooden-tray-close-up.webp?s=2048x2048&w=is&k=20&c=jV9XHKwVs3Os8QCbv_BTqd6GsQi8cfLDsl47937pIkA=",
+        title:"Burger"
+    },
+    {
+        image:"https://cdn.pixabay.com/photo/2016/11/29/04/00/bread-1867208_1280.jpg",
+        title:"Sandwich"
+    },
+    {
+        image:"https://media.istockphoto.com/id/1397479529/photo/asian-chicken-fried-rice-with-chopsticks-directly-above-photo.jpg?s=2048x2048&w=is&k=20&c=iR8MGwzwrmVxUPllPsRHgznqF28qyM_Q5aqOOrN-qJY=",
+        title:"Fried Rice"
+    },
+    {
+        image:"https://cdn.pixabay.com/photo/2017/01/11/11/33/cake-1971552_1280.jpg",
+        title:"Cake"
+    },
+    {
+        image:"https://cdn.pixabay.com/photo/2023/10/19/11/18/biryani-8326234_960_720.jpg",
+        title:"Biryani"
+    },
+    {
+        image:"https://cdn.pixabay.com/photo/2012/07/09/07/16/thali-51996_960_720.jpg",
+        title:"Thali"
+    },
+    {
+        image:"https://cdn.pixabay.com/photo/2022/01/27/07/34/dosa-6971361_1280.jpg",
+        title:"Dosa"
+    },
+    {
+        image:"https://cdn.pixabay.com/photo/2019/04/07/17/20/chicken-4110208_1280.jpg",
+        title:"Chicken"
+    },
+    {
+        image:"https://cdn.pixabay.com/photo/2021/12/29/23/39/spicy-noodle-6902956_960_720.jpg",
+        title:"Noodles"
+    },
+
+]
